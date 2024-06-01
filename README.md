@@ -1,7 +1,7 @@
 Hi, my name is Igor 👋
 <li> 📚 I’m teacher of Physics. </li>
 <li> 🌱 I’m learning programming. </li>
-<li> 💻 I want to become Software Enginner </li>
+<li> 💻 I want to become a Software Enginner </li>
 <li> 📫 How to reach me: <a href="https://www.linkedin.com/in/igor-menezes-de-oliveira-069857169/">Linkedin</a> </li>
 
 <!---
