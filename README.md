@@ -1,8 +1,8 @@
 Hi, my name is Igor 👋
-<li> 📚 I’m teacher of Physics. </li>
-<li> 🌱 I’m learning programming. </li>
-<li> 💻 I want to become a Software Enginner </li>
-<li> 📫 How to reach me: <a href="https://www.linkedin.com/in/igor-menezes-de-oliveira-069857169/">Linkedin</a> </li>
+<li> 📚 I previously worked as a Physics teacher. </li>
+<li> 🐛 Now, I'm a Quality Analyst. </li>
+<li> 💻 Aspiring Software Engineer. </li>
+<li> 📫 Feel free to connect with me on <a href="https://www.linkedin.com/in/igor-menezes-de-oliveira-069857169/">Linkedin</a> </li>
 
 <!---
 OliveiraCE/OliveiraCE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
